@@ -1,0 +1,11 @@
+# rclone config with Google Drive OAuth credentials
+rclone-config/
+
+# SSH configuration for the backup host
+SshConfig/
+
+# Google service account credentials
+google_service_account_credentials/
+
+# logs produced by the scripts
+*.log
